@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m passionate about cloud engineering, backend 
 
 ## 🚀 About Me
 
-- 🖥️ **Cloud Support Engineer**: Specializing in AWS and containers.
+- 🖥️ **Cloud Support Engineer**: Specializing in Azure and AWS services.
 - 💻 **Junior Software Engineer**: Focusing on backend development.
 - 🎓 Certified in **Azure AI, Azure Administrator, Azure IoT, DevOps**.
 - 🌍 Based in **South Africa**, and eager to contribute to innovative tech developments.
