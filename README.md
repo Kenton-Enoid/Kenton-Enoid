@@ -1,4 +1,4 @@
-# Hi there, I'm Kenton Gaosenkwe-Kamolane! 👋
+# Hi there, I'm Bonolo Kenton Gaosenkwe-Kamolane! 👋
 
 Welcome to my GitHub profile! I’m passionate about cloud engineering, backend development, and full-stack projects, continuously honing my skills in DevOps, AWS, and modern web technologies.
 
